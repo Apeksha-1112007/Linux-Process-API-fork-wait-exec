@@ -49,6 +49,10 @@ int main() {
 
 
 ##OUTPUT
+
+
+
+
 ![alt text](pic1.jpg)
 
 
@@ -109,6 +113,11 @@ int main() {
 
 
 ##OUTPUT
+
+
+
+
+
 ![alt text](pic2.jpg)
 
 
